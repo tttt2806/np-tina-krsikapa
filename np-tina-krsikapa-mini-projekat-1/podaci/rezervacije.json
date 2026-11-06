@@ -1,0 +1,5 @@
+[
+  {"gost": "Ana", "noci": 3, "cijena_noci": 80},
+  {"gost": "Marko", "noci": 5, "cijena_noci": 65},
+  {"gost": "Ivana", "noci": 2, "cijena_noci": 120}
+]
